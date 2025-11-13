@@ -5,7 +5,7 @@
  * @fileoverview this program displays and adds 3 numbers together.
  */
 
-//
+//creating the constants
 const number1 = 10
 const number2 = -20
 const number3 = 85
